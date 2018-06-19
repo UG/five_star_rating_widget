@@ -4,7 +4,7 @@ I was looking for this widget but couln't find one then I made it.
 
 just simpley tap to rate what ever rate for.
 
-#usage & example
+# usage & example
 Just copy StarRatingWidget.dart what ever you like.
 import and use it just like main.dart 
 
